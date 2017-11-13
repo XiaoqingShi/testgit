@@ -7,7 +7,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>demo01 Maven Webapp</name>
   <url>http://maven.apache.org</url>
-  <dependencies>
+  <dependencies> 
 		<!-- 单元测试jar -->
 		      <dependency>
             <groupId>junit</groupId>
